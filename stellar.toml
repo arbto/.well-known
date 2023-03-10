@@ -1,0 +1,28 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GC5ZMSJN3E6IW5VOT55PEPLCTJFT7NQBLKKTGYFG4ZDUHLQ7M7BKNNLC",
+"GCVH3ZH4JQHI5SWNFAHM6LYVBTYWDB5B54WKEUQZI6LCKTRLB2RSLZJ4"
+]
+
+[DOCUMENTATION]
+ORG_NAME="ARBT"
+ORG_URL="https://t.me/AcoshiRabbit"
+ORG_LOGO="https://acoshirabbit.keybase.pub/logo.png"
+ORG_DESCRIPTION="ARBT is a revolutionary memecoin hyper-focused on enriching poor people and small players in the cryptoverse through Stellar; the most affordable, fast and secure blockchain network."
+ORG_PHYSICAL_ADDRESS="Worldwide"
+ORG_KEYBASE="acoshirabbit"
+ORG_TWITTER="AcoshiRabbit"
+ORG_OFFICIAL_EMAIL=""
+
+[[CURRENCIES]]
+code="ARBT"
+issuer="GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR"
+display_decimals=7
+name="Acoshi Rabbit"
+desc="Acoshi Rabbit (ARBT) is a revolutionary memecoin hyper-focused on enriching poor people and small players in the cryptoverse through Stellar; the most affordable, fast and secure blockchain network. Simply join the moon mission and hold as 15% from total supply will be used for strategic marketing to effect the moon mission."
+is_asset_anchored=false
+conditions="There will only ever be 100,000,000,000 ARBT in existence. Join the moon mission and keep spreading the news!."
+image="https://acoshirabbit.keybase.pub/logo.png"
+fixed_number=100000000000
+status="live"
