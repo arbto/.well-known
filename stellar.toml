@@ -25,4 +25,4 @@ is_asset_anchored=false
 conditions="There will only ever be 100,000,000,000 ARBT in existence. Join the moon mission and keep spreading the news!."
 image="https://arbt-toml.github.io/logo.png"
 fixed_number=100000000000
-status="live"
+status="live" 
