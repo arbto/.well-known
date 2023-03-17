@@ -7,8 +7,8 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="ARBT"
-ORG_URL="https://t.me/AcoshiRabbit"
-ORG_LOGO="https://arbt-toml.github.io/logo.png"
+ORG_URL="https://arbto.github.io"
+ORG_LOGO="https://arbto.github.io/logo.png"
 ORG_DESCRIPTION="ARBT is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father Dogecoin and aims to sustain a more profitable cryptoverse for everyone. $ARBT tokens will be in existence for as long as Stellar blockchain network exist."
 ORG_PHYSICAL_ADDRESS="Milan, Italy"
 ORG_KEYBASE="acoshirabbit"
@@ -23,6 +23,6 @@ name="Acoshi Rabbit"
 desc="Acoshi Rabbit (ARBT) is a revolutionary memecoin, hyper-focused on enriching poor and small players in the cryptoverse through Stellar; the most affordable, fast and secure blockchain network. Simply join the moon mission and hold as 15% from total supply will be used for strategic marketing to effect the moon mission."
 is_asset_anchored=false
 conditions="There will only ever be 100,000,000,000 $ARBT tokens in existence on the Stellar blockchain network. Join the moon mission and keep spreading the news!."
-image="https://arbt-toml.github.io/logo.png"
+image="https://arbto.github.io/logo.png"
 fixed_number=100000000000
 status="live"
