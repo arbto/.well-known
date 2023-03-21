@@ -2,13 +2,13 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 [DOCUMENTATION]
 ORG_NAME="ARBT"
-ORG_URL="https://arbto.github.io"
-ORG_LOGO="https://arbto.github.io/logo.png"
+ORG_URL="https://acoshirabbit.github.io"
+ORG_LOGO="https://acoshirabbit.github.io/logo2.png"
 ORG_DESCRIPTION="ARBT is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father dogecoin and aims to sustain a more profitable cryptoverse for beginners and enthusiasts. $ARBT tokens will last in existence for as long as Stellar blockchain network exist."
 ORG_PHYSICAL_ADDRESS="Milan, Italy"
 ORG_KEYBASE="acoshirabbit"
 ORG_TWITTER="AcoshiRabbit"
-ORG_OFFICIAL_EMAIL="arbto@github.io"
+ORG_OFFICIAL_EMAIL="acoshirabbit@gmail.com"
 
 [[CURRENCIES]]
 code="ARBT"
@@ -18,6 +18,6 @@ name="Acoshi Rabbit"
 desc="Acoshi Rabbit (ARBT) is a meme-inspired cryptocurrency that has learnt a few tricks from the memes father dogecoin and with Stellar's reliable and efficient infrastructure ARBT aims to sustain a more profitable cryptoverse for beginners and enthusiasts."
 is_asset_anchored=false
 conditions="There will only ever be 100,000,000,000 $ARBT tokens in existence and will last for as long as Stellar blockchain network exist."
-image="https://arbto.github.io/logo.png"
+image="https://acoshirabbit.github.io/logo.png"
 fixed_number=100000000000
 status="live"
