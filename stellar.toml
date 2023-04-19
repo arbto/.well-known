@@ -21,3 +21,10 @@ conditions="There will only ever be 100,000,000,000 ARBT tokens in existence and
 image="https://acoshirabbit.com/logo.png"
 fixed_number=100000000000
 status="live"
+
+[[PRINCIPALS]]
+name="Alfred"
+address="milan city"
+email="info@acoshirabbit.com"
+twitter="AcoshiRabbit"
+telegram="AcoshiRabbit"
