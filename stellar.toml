@@ -1,12 +1,21 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+ACCOUNTS=[
+"GCNU7QINZXORWR7BMTIZBQ3GOWIGXPWJ2QSLI76CSKGC5F4KIXLDG5MX",
+"GCDGYFPH2U6SS2GZ3KGHKFCVLQVRPEC6WH6HSMLW4QQ2SXC3IX52VGRJ",
+"GBA4EPDUI6H54SY6UOVZCJ3RS44QFIHQA6VGBQYQPAILATSOGZBPOOB2",
+"GC5ZMSJN3E6IW5VOT55PEPLCTJFT7NQBLKKTGYFG4ZDUHLQ7M7BKNNLC",
+"GCVH3ZH4JQHI5SWNFAHM6LYVBTYWDB5B54WKEUQZI6LCKTRLB2RSLZJ4"
+]
+VERSION="2.5.0"
 
 [DOCUMENTATION]
-ORG_NAME="ARBT"
+ORG_NAME="A-Rabbit"
+ORG_DBA="ARBT"
 ORG_URL="https://acoshirabbit.com"
 ORG_LOGO="https://acoshirabbit.com/logo2.png"
 ORG_DESCRIPTION="Acoshi Rabbit (ARBT) is a revolutionary meme-inspired cryptocurrency for the masses, Acoshi Rabbit has learnt a few tricks from the memes father Dogecoin and aims to sustain a more profitable cryptoverse for beginners and enthusiasts. Simply love, pet and hold as 10% from annual revenues is used to buyback and burn $ARBT tokens."
 ORG_PHYSICAL_ADDRESS="Milan, Italy"
-ORG_KEYBASE="acoshirabbit"
+ORG_GITHUB="acoshirabbit"
 ORG_TWITTER="AcoshiRabbit"
 ORG_OFFICIAL_EMAIL="info@acoshirabbit.com"
 
@@ -27,3 +36,9 @@ name="Alfred"
 email="info@acoshirabbit.com"
 twitter="AcoshiRabbit"
 telegram="AcoshiRabbit"
+
+[[PRINCIPALS]]
+name="Christopher"
+email="acoshirabbit@gmail.com"
+twitter="AcoshiRabbit"
+telegram="ChrisArbt"
