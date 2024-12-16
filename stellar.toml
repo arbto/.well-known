@@ -1,44 +1,39 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+VERSION="2.6.0"
+
 ACCOUNTS=[
-"GCNU7QINZXORWR7BMTIZBQ3GOWIGXPWJ2QSLI76CSKGC5F4KIXLDG5MX",
-"GCDGYFPH2U6SS2GZ3KGHKFCVLQVRPEC6WH6HSMLW4QQ2SXC3IX52VGRJ",
-"GBA4EPDUI6H54SY6UOVZCJ3RS44QFIHQA6VGBQYQPAILATSOGZBPOOB2",
-"GC5ZMSJN3E6IW5VOT55PEPLCTJFT7NQBLKKTGYFG4ZDUHLQ7M7BKNNLC",
-"GCVH3ZH4JQHI5SWNFAHM6LYVBTYWDB5B54WKEUQZI6LCKTRLB2RSLZJ4"
+"",
+"",
+"",
+""
 ]
-VERSION="2.5.0"
 
 [DOCUMENTATION]
-ORG_NAME="A-Rabbit"
-ORG_DBA="ARBT"
-ORG_URL="https://acoshirabbit.com"
-ORG_LOGO="https://acoshirabbit.com/logo2.png"
-ORG_DESCRIPTION="Acoshi Rabbit (ARBT) is a revolutionary meme-inspired cryptocurrency for the masses, Acoshi Rabbit has learnt a few tricks from the memes father Dogecoin and aims to sustain a more profitable cryptoverse for beginners and enthusiasts. Simply love, pet and hold as 10% from annual revenues is used to buyback and burn $ARBT tokens."
-ORG_PHYSICAL_ADDRESS="Milan, Italy"
-ORG_GITHUB="acoshirabbit"
-ORG_TWITTER="AcoshiRabbit"
-ORG_OFFICIAL_EMAIL="info@acoshirabbit.com"
+ORG_NAME="POYE Network"
+ORG_DBA="POYE"
+ORG_URL="https://poye.xyz"
+ORG_LOGO="https://poye.xyz/logo.png"
+ORG_DESCRIPTION="POYE Network champions Soroban’s belief that Smart Contract will have a massive positive impact on Stellar's future to humanity. And as Soroban paves the path towards decentralization and longevity, $POYE is here to spread optimism all along the way."
+ORG_PHYSICAL_ADDRESS="XLM, Paris"
+ORG_GITHUB="poye-network"
+ORG_TWITTER="poye_token"
+ORG_OFFICIAL_EMAIL="info@poye.xyz"
 
 [[CURRENCIES]]
-code="ARBT"
-issuer="GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR"
+code="POYE"
+issuer="GCANJQJUFIWG7TXKCAJPG726KWW5CXISB2KM2MZRYLVV6AMZENZQN2ZE"
 display_decimals=7
-name="Acoshi Rabbit"
-desc="Acoshi Rabbit (ARBT) is a revolutionary meme-inspired cryptocurrency for the masses, Acoshi Rabbit has learnt a few tricks from the memes father Dogecoin and aims to sustain a more profitable cryptoverse for beginners and enthusiasts. Simply love, pet and hold as 10% from annual revenues is used to buyback and burn $ARBT tokens."
+name="POYE"
+desc="Xaipe to losses with Stellar's most memeable fun token fueled by pure memetic power. Ownership renounced and full liquidity locked💥🚀"
 is_asset_anchored=false
-conditions="There will only ever be 100,000,000,000 ARBT tokens in existence. Join the movement and keep spreading the news."
-image="https://acoshirabbit.com/logo.png"
-fixed_number=100000000000
+conditions="There will only ever be 1,000,000,000 POYE in existence. Join the moon mission and keep spreading the news!"
+image="https://poye.xyz/logo.png"
+fixed_number=1000000000
 status="live"
 
 [[PRINCIPALS]]
-name="Alfred"
-email="info@acoshirabbit.com"
-twitter="AcoshiRabbit"
-telegram="AcoshiRabbit"
-
-[[PRINCIPALS]]
-name="Christopher"
-email="acoshirabbit@gmail.com"
-twitter="AcoshiRabbit"
-telegram="ChrisArbt"
+name="Poye Network"
+email="info@poye.xyz"
+twitter="poye_token"
+telegram="poye_token"
